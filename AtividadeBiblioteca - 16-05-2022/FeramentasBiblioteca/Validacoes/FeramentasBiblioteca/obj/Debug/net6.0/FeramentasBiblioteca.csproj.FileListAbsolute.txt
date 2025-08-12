@@ -1,0 +1,12 @@
+C:\Users\2021202060005\source\repos\FeramentasBiblioteca\bin\Debug\net6.0\FeramentasBiblioteca.deps.json
+C:\Users\2021202060005\source\repos\FeramentasBiblioteca\bin\Debug\net6.0\FeramentasBiblioteca.dll
+C:\Users\2021202060005\source\repos\FeramentasBiblioteca\bin\Debug\net6.0\ref\FeramentasBiblioteca.dll
+C:\Users\2021202060005\source\repos\FeramentasBiblioteca\bin\Debug\net6.0\FeramentasBiblioteca.pdb
+C:\Users\2021202060005\source\repos\FeramentasBiblioteca\obj\Debug\net6.0\FeramentasBiblioteca.csproj.AssemblyReference.cache
+C:\Users\2021202060005\source\repos\FeramentasBiblioteca\obj\Debug\net6.0\FeramentasBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2021202060005\source\repos\FeramentasBiblioteca\obj\Debug\net6.0\FeramentasBiblioteca.AssemblyInfoInputs.cache
+C:\Users\2021202060005\source\repos\FeramentasBiblioteca\obj\Debug\net6.0\FeramentasBiblioteca.AssemblyInfo.cs
+C:\Users\2021202060005\source\repos\FeramentasBiblioteca\obj\Debug\net6.0\FeramentasBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\2021202060005\source\repos\FeramentasBiblioteca\obj\Debug\net6.0\FeramentasBiblioteca.dll
+C:\Users\2021202060005\source\repos\FeramentasBiblioteca\obj\Debug\net6.0\ref\FeramentasBiblioteca.dll
+C:\Users\2021202060005\source\repos\FeramentasBiblioteca\obj\Debug\net6.0\FeramentasBiblioteca.pdb
