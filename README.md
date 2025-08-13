@@ -3,9 +3,40 @@
 Repositório com códigos, exercícios e projetos desenvolvidos durante a disciplina de **Programação Orientada a Objetos** no curso de **Análise e Desenvolvimento de Sistemas – IFRO**.
 
 ---
+---
+
+## 🛠 Tecnologias Utilizadas
+- **Linguagem:** C#  
+- **IDE:** Visual Studio  
+- **Paradigma:** Programação Orientada a Objetos (POO)  
+
+---
+
+## 🎯 Objetivo
+Este repositório reúne exemplos práticos de POO aplicados em C#, incluindo:
+
+- ✅ Criação e uso de classes  
+- 🔒 Encapsulamento  
+- ⚙️ Métodos estáticos  
+- 🏗️ Construtores  
+- 📦 Separação de responsabilidades  
+- 🧩 Exercícios práticos e aplicações  
+
+---
+
+## 📜 Licença
+Este projeto é de uso acadêmico e livre para fins de estudo.  
+Sinta-se à vontade para clonar e modificar para aprendizado próprio.
+
+---
+
+📌 **Autor:** Wasgton Gomes  
+📅 **Ano:** 2022 – 2º Período  
+🎓 **Instituição:** Instituto Federal de Educação, Ciência e Tecnologia de Rondônia – IFRO
+
 
 ## 📂 Estrutura de Diretórios
-```plaintext
+```plaintext 
 📁 Programacao_Orientada_a_Objetos/
 ├── 📄 README.md                          # Documento principal do repositório
 ├── 📄 README.ours.md                     # Versão local do README durante merge
