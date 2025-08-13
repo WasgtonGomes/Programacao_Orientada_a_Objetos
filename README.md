@@ -4,7 +4,7 @@ Repositório com códigos, exercícios e projetos desenvolvidos durante a discip
 
 ## 📂 Estrutura de Diretórios
 
-
+```plaintext
 📁 Programacao_Orientada_a_Objetos/
 ├── 📄 README.md
 ├── 📄 README.ours.md
@@ -23,7 +23,7 @@ Repositório com códigos, exercícios e projetos desenvolvidos durante a discip
 └── 📁 Formularios
 
 
-
+plaintext
 ## 🛠 Tecnologias Utilizadas
 - Linguagem: C#
 - IDE: Visual Studio
