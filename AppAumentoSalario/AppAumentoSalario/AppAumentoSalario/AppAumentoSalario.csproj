@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\2021202060005\Desktop\AUMENTOSALARIO - POO - 17-03-2022.cs" Link="AUMENTOSALARIO - POO - 17-03-2022.cs" />
+  </ItemGroup>
+
+</Project>
