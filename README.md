@@ -34,6 +34,7 @@ Sinta-se à vontade para clonar e modificar para aprendizado próprio.
 📅 **Ano:** 2022 – 2º Período  
 🎓 **Instituição:** Instituto Federal de Educação, Ciência e Tecnologia de Rondônia – IFRO
 
+---
 
 ## 📂 Estrutura de Diretórios
 ```plaintext
@@ -58,12 +59,24 @@ Sinta-se à vontade para clonar e modificar para aprendizado próprio.
 │   ├── 📄 AppCalculadoraFinanceira.csproj — Arquivo de configuração do projeto
 │   └── 📄 AppCalculadoraFinanceira.sln — Solução do Visual Studio
 ├── 📁 Formularios — Exemplos de formulários e interfaces gráficas (WinForms)
-└── 📁 AppLoteria — Projeto WinForms para geração/analise de jogos (Mega-Sena, Quina, Lotomania, Lotofácil)
-    ├── 📄 AppLoteria.sln — Solução do Visual Studio
-    ├── 📄 AppLoteria.csproj — Projeto principal
-    ├── 📁 Formularios
-    │   ├── 📄 FormMegaSena.cs / .Designer.cs / .resx — Tela da Mega-Sena
-    │   ├── 📄 FormQuina.cs / .Designer.cs / .resx — Tela da Quina
-    │   ├── 📄 FormLotoMania.cs / .Designer.cs / .resx — Tela da Lotomania
-    │   └── 📄 FormLotoFacil.cs / .Designer.cs / .resx — Tela da Lotofácil (análise pares/ímpares)
-    └── 📁 RegrasDeNegocio — Classes de domínio (ex.: NumeroDasSorte)
+├── 📁 AppLoteria — Projeto WinForms para geração/análise de jogos (Mega-Sena, Quina, Lotomania, Lotofácil)
+│   ├── 📄 AppLoteria.sln — Solução do Visual Studio
+│   ├── 📄 AppLoteria.csproj — Projeto principal
+│   ├── 📁 Formularios
+│   │   ├── 📄 FormMegaSena.cs / .Designer.cs / .resx — Tela da Mega-Sena
+│   │   ├── 📄 FormQuina.cs / .Designer.cs / .resx — Tela da Quina
+│   │   ├── 📄 FormLotoMania.cs / .Designer.cs / .resx — Tela da Lotomania
+│   │   └── 📄 FormLotoFacil.cs / .Designer.cs / .resx — Tela da Lotofácil (análise pares/ímpares)
+│   └── 📁 RegrasDeNegocio — Classes de domínio (ex.: NumeroDasSorte)
+├── 📁 AppAumentoSalario — Sistema de reajuste salarial com categorias e opção de aumento livre
+│   ├── 📄 AppAumentoSalario.sln — Solução do Visual Studio
+│   ├── 📄 AppAumentoSalario.csproj — Arquivo de configuração do projeto
+│   ├── 📄 Program.cs — Lógica principal com interação via console
+│   └── 📁 RegrasDeNegocio
+│       └── 📄 Reajuste.cs — Classe com métodos para cálculo de reajustes e encapsulamento de dados
+├── 📁 AppExemploClasseEstatica — Demonstração de métodos estáticos para manipulação de strings e formatação de dados
+│   ├── 📄 AppClasseEstaticaWasgton.sln — Solução do Visual Studio
+│   ├── 📄 AppClasseEstaticaWasgton.csproj — Arquivo de configuração do projeto
+│   ├── 📄 Program.cs — Exemplos práticos de manipulação de strings e uso de métodos estáticos
+│   └── 📁 RegrasDeNegocio
+│       └── 📄 Mascaras.cs — Classe estática com métodos para aplicar e remover máscaras de telefone, CPF e CNPJ
